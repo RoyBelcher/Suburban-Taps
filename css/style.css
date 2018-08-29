@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Brandon Grotesque'; 
-    src: url('fonts/BRANDON\ GROTESQUE/Brandon_reg.otf'); /*URL to font*/
+    src: url('fonts/BRANDON\ GROTESQUE/Brandon_reg.otf');
 }
 
 p {
@@ -10,7 +10,12 @@ p {
     text-align: center;
 }
 
-img.center {
-    display: block;
+img.logo {
+    display:block;
     margin:auto;
+}
+
+section{
+    margin: 0 auto;
+    width: 14%;
 }
