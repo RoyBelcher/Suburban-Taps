@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'Brandon Grotesque'; 
-    src: url('fonts/BRANDON\ GROTESQUE/Brandon_reg.otf');
+    src: url('../fonts/BRANDON_GROTESQUE/Brandon_light.otf');
 }
 
 p {
