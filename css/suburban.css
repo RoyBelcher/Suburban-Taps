@@ -1,3 +1,22 @@
+
+
+@font-face {
+    font-family: 'Brandon Grotesque'; 
+    src: url('fonts/BRANDON\ GROTESQUE/Brandon_reg.otf');
+}
+
+p {
+    font-family: 'Brandon Grotesque';
+    color:#D38F35;
+    font-size: 32px;
+    text-align: center;
+}
+
 .social{
     filter: invert(60%);
+}
+
+
+.email-font{
+    font-size: 24px;
 }
