@@ -286,12 +286,20 @@ section.features .feature-item i {
 section.cta {
   position: relative;
   padding: 250px 0;
-  background-image: url("../img/radyr/OutsideTap.jpeg");
+
   background-position: top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+section.cta.radyr {
+  background-image: url("../img/radyr/OutsideTap.jpeg");
+}
+
+section.cta.rhiwbina {
+  background-image: url("../img/rhiwbina/rhiwbinatap.jpeg");
 }
 
 section.cta .cta-content {
